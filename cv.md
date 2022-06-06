@@ -2,11 +2,10 @@
 Anton Tushynski
 ============
 
--------------------     ----------------------------
-1 MyAddress                        anton.tushynski@gmail.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+-------------------     
+EmailAddress                        anton.tushynski@gmail.com
+
+-------------------    
 
 Education
 ---------
@@ -26,7 +25,7 @@ Programming Code
 `
 ----------------------------------------
 
-* Languages:
+Languages:
 
      * English B2
      * Chech A2
