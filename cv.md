@@ -1,21 +1,36 @@
 
-#####**Anton Tushynski**
+**Anton Tushynski**
 
 
 
-
-###**Contacts:**------
+###**Contacts:**
 1. 291362541
-2. anton.tushynski@gmail.com-----
-###**About me**###-----
-I'm thinking of becoming a JavaScript developer.----
-###**Code example**###---
+2. anton.tushynski@gmail.com
+
+
+
+**About me**
+I'm thinking of becoming a JavaScript developer.
+
+
+
+
+**Code example**
 `
 1+2=3
 `
-###**Work experience**###-----
+
+
+
+**Work experience**
 Nothing yet..
-###**Education and courses**###-----
+
+
+
+**Education and courses**
 Udemy.com courses
-###**Language**###-----
+
+
+
+**Language**
 English level - B2
