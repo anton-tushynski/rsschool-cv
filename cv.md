@@ -3,7 +3,7 @@ Anton Tushynski
 ============
 
 -------------------     
-EmailAddress                        anton.tushynski@gmail.com
+EmailAddress  -                       anton.tushynski@gmail.com
 
 -------------------    
 
@@ -25,7 +25,7 @@ Programming Code
 `
 ----------------------------------------
 
-Languages:
+Languages
 
      * English B2
      * Chech A2
