@@ -1,36 +1,32 @@
 
-**Anton Tushynski**
+Anton Tushynski
+============
 
+-------------------     ----------------------------
+1 MyAddress                        anton.tushynski@gmail.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
 
+Education
+---------
 
-###**Contacts:**
-1. 291362541
-2. anton.tushynski@gmail.com
+Udemy.com course
 
+Experience
+----------
 
-
-**About me**
-I'm thinking of becoming a JavaScript developer.
-
-
-
-
-**Code example**
-`
-1+2=3
-`
-
-
-
-**Work experience**
 Nothing yet..
 
+Programming Code
+--------------------
 
+`
+1+3=4
+`
+----------------------------------------
 
-**Education and courses**
-Udemy.com courses
+* Languages:
 
-
-
-**Language**
-English level - B2
+     * English B2
+     * Chech A2
