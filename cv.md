@@ -1,17 +1,18 @@
 #Anton Tushynski#
 
 
-##Contacts##
+##Contacts:##
 * e-mail: lordzed365@gmail.com
 * tel: 375 29 1362541
 
 
-##My goal: to be a frontend developer##
+##My goal:## To be a frontend developer
 
 
-##My skills: English##
+##My skills:## English
 
 
+##My code example:##
 ```const func = (number) => {
   if (number > 0) {
     return num - 1;
@@ -21,11 +22,11 @@
 ```
 
 
-##Experience: no practical experience at all##
+##Experience:## No practical experience at all
 
 
-##Education: JavaScript and React cource on Udemy (in progress)##
+##Education:## JavaScript and React cource on Udemy (in progress)
 
 
-##English level: Upper-intermediate##
+##English level:## Upper-intermediate
 
